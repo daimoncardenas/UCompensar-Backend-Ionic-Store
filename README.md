@@ -208,7 +208,3 @@ This backend is meant for learning and demo purposes, not for production.
 
 
 ---
-
-💡 That’s one single block, ready for copy–paste as `README.md`.  
-
-Do you want me to also add a **Frontend README** with its commands (`ionic serve`, `ionic build`, etc.) in t
