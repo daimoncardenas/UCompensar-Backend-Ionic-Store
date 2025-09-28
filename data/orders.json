@@ -1,5 +1,55 @@
 [
   {
+    "id": 3,
+    "total": 39.99,
+    "status": "pending",
+    "createdAt": "2025-09-28T01:10:59.867Z",
+    "userId": 123,
+    "email": "demo@demo.com",
+    "items": [
+      {
+        "productId": 1,
+        "qty": 1,
+        "price": 39.99,
+        "name": "Ionic Hoodie"
+      }
+    ],
+    "shipping": {
+      "name": "CheckoutTesting3",
+      "address": "Cra 88 99 99",
+      "city": "Bogota",
+      "country": "Colombia"
+    }
+  },
+  {
+    "id": 2,
+    "total": 44.49,
+    "status": "pending",
+    "createdAt": "2025-09-28T01:09:56.876Z",
+    "userId": 123,
+    "email": "demo@demo.com",
+    "items": [
+      {
+        "productId": 2,
+        "qty": 1,
+        "price": 4.5,
+        "name": "Angular Stickers"
+      },
+      {
+        "productId": 1,
+        "qty": 1,
+        "price": 39.99,
+        "name": "Ionic Hoodie"
+      }
+    ],
+    "shipping": {
+      "name": "TestingCheckout2",
+      "address": "Cra 77 88 99",
+      "city": "Bogota",
+      "country": "Colombia"
+    }
+  },
+  {
     "id": 1,
     "total": 73.89,
     "status": "pending",

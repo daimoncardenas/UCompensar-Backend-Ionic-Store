@@ -28,6 +28,7 @@ async function writeJson(file, data) {
 // ---------- Auth ----------
 app.post('/auth/login', (req, res) => {
   const { email, password } = req.body || {};
+  console.log("email",email)
   if (email === 'demo@demo.com' && password === '1234567') {
     const token = jwt.sign({ sub: '123', email }, SECRET, { expiresIn: '1h' });
     return res.json({ token });
