@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "total": 73.89,
+    "status": "pending",
+    "createdAt": "2025-09-27T23:48:51.930Z",
+    "userId": 123,
+    "email": "demo@demo.com",
+    "items": [
+      {
+        "productId": 5,
+        "qty": 1,
+        "price": 14,
+        "name": "JS Handbook"
+      },
+      {
+        "productId": 4,
+        "qty": 1,
+        "price": 19.9,
+        "name": "React Native Tee"
+      },
+      {
+        "productId": 1,
+        "qty": 1,
+        "price": 39.99,
+        "name": "Ionic Hoodie"
+      }
+    ],
+    "shipping": {
+      "name": "TestingCheckout1",
+      "address": "Cra 44 55 77",
+      "city": "Bogota",
+      "country": "Colombia"
+    }
+  }
+]

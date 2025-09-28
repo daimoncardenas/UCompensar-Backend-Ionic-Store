@@ -1,0 +1,5 @@
+[
+  { "id": 1, "sku": "ION-HOOD", "name": "Ionic Hoodie", "description": "Comfy dev hoodie", "price": 39.99, "imageUrl": "", "category": "Apparel", "stock": 25 },
+  { "id": 2, "sku": "ANG-STICK", "name": "Angular Stickers", "description": "Sheet of stickers", "price": 4.5, "imageUrl": "", "category": "Accessories", "stock": 200 },
+  { "id": 3, "sku": "CAP-MUG", "name": "Capacitor Mug", "description": "Ceramic mug", "price": 12.0, "imageUrl": "", "category": "Kitchen", "stock": 80 }
+]
